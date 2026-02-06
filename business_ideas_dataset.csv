@@ -1,0 +1,101 @@
+Idea_ID,Primary_Interest,Secondary_Interest,Experience_Level,Budget_Range,Risk_Tolerance,Work_Mode,Location_Type,Business_Idea,Industry,Required_Skills,Min_Budget,Difficulty_Level,Market_Demand,Scalability,Target_Audience
+1,Food,Marketing,0-1,Low,Low,Online,Urban,Home Based Cloud Kitchen,Food Service,Cooking;Marketing,Low,Easy,High,Medium,Students
+2,Food,Sustainability,2-5,Medium,Medium,Offline,Semi-Urban,Organic Juice Bar,Food Service,Cooking;Supply Chain,Medium,Medium,Medium,Medium,Health Conscious
+3,Food,Content,0-1,Low,Low,Online,Urban,Instagram Food Review Page,Media,Content Creation,Low,Easy,High,High,Youth
+4,Food,Logistics,5+,High,Medium,Hybrid,Urban,Food Delivery Aggregator,Food Tech,Operations;Management,High,Hard,High,High,Restaurants
+5,Technology,Design,0-1,Low,Low,Online,Urban,UI Freelancing Service,IT Services,UI/UX;Design,Low,Easy,High,High,Startups
+6,Technology,AI,2-5,Medium,Medium,Online,Urban,AI Chatbot Development,Software,Python;ML,Medium,Hard,High,High,Enterprises
+7,Technology,Security,5+,High,High,Hybrid,Urban,Cybersecurity Consultancy,IT Security,Networking;Security,High,Hard,High,Medium,Corporates
+8,Technology,Education,0-1,Low,Low,Online,Urban,Coding Tutorial YouTube Channel,EdTech,Teaching;Coding,Low,Easy,High,High,Students
+9,Education,Content,0-1,Low,Low,Online,Urban,Online Tutoring Platform,EdTech,Teaching;Communication,Low,Easy,High,High,School Students
+10,Education,Technology,2-5,Medium,Medium,Hybrid,Semi-Urban,Digital Coaching Institute,Education,Teaching;Management,Medium,Medium,Medium,Medium,Competitive Exam Aspirants
+11,Education,Design,5+,Medium,Low,Offline,Rural,Skill Training Center,Education,Training;Leadership,Medium,Medium,Medium,Low,Rural Youth
+12,Fashion,Design,0-1,Low,Low,Online,Urban,Custom T Shirt Brand,Fashion,Design;Marketing,Low,Easy,High,High,College Students
+13,Fashion,Marketing,2-5,Medium,Medium,Online,Urban,Instagram Boutique,Fashion,Branding;Sales,Medium,Medium,High,Medium,Women
+14,Fashion,Sustainability,5+,Medium,Low,Offline,Semi-Urban,Eco Friendly Clothing Store,Fashion,Supply Chain;Retail,Medium,Medium,Medium,Low,Environment Aware
+15,Agriculture,Sustainability,5+,Low,Low,Offline,Rural,Organic Vegetable Farming,Agriculture,Farming;Planning,Low,Medium,High,Low,Local Markets
+16,Agriculture,Technology,2-5,Medium,Medium,Hybrid,Rural,Smart Irrigation Service,AgriTech,IoT;Farming,Medium,Hard,Medium,Medium,Farmers
+17,Agriculture,Marketing,0-1,Low,Low,Online,Rural,Farm Produce Marketplace,AgriTech,Sales;Logistics,Low,Easy,Medium,Medium,Farmers
+18,Health,Fitness,0-1,Low,Low,Online,Urban,Online Fitness Coaching,Health,Training;Content,Low,Easy,High,High,Working Professionals
+19,Health,Nutrition,2-5,Medium,Medium,Hybrid,Urban,Diet Consultation Service,Health,Nutrition;Counselling,Medium,Medium,High,Medium,Adults
+20,Health,Technology,5+,High,High,Online,Urban,Health Monitoring App,HealthTech,App Dev;ML,High,Hard,High,High,Patients
+21,Travel,Content,0-1,Low,Low,Online,Urban,Travel Vlogging Channel,Media,Video Editing,Low,Easy,High,High,Youth
+22,Travel,Logistics,2-5,Medium,Medium,Hybrid,Urban,Customized Travel Planner,Travel,Planning;Sales,Medium,Medium,Medium,Medium,Families
+23,Travel,Sustainability,5+,Medium,Low,Offline,Rural,Rural Tourism Service,Hospitality,Operations,Medium,Medium,Medium,Low,Foreign Tourists
+24,Finance,Education,0-1,Low,Low,Online,Urban,Personal Finance Blog,FinTech,Writing;Finance,Low,Easy,High,High,Young Earners
+25,Finance,Technology,2-5,Medium,Medium,Online,Urban,Expense Tracking App,FinTech,App Dev;Finance,Medium,Hard,High,High,Professionals
+26,Finance,Consulting,5+,High,High,Hybrid,Urban,Investment Advisory Firm,Finance,Analysis;Advisory,High,Hard,High,Medium,Investors
+27,Media,Design,0-1,Low,Low,Online,Urban,Freelance Graphic Design,Creative,Design,Low,Easy,High,High,Startups
+28,Media,Marketing,2-5,Medium,Medium,Online,Urban,Digital Marketing Agency,Marketing,SEO;Ads,Medium,Medium,High,High,Small Businesses
+29,Media,Production,5+,High,High,Offline,Urban,Video Production Studio,Media,Filmmaking,High,Hard,Medium,Medium,Brands
+30,Logistics,Technology,2-5,Medium,Medium,Hybrid,Urban,Last Mile Delivery Service,Logistics,Operations;Tech,Medium,Hard,High,Medium,Ecommerce Sellers
+31,Logistics,Planning,5+,High,Medium,Offline,Urban,Warehouse Management Service,Logistics,Management,High,Hard,Medium,Low,Manufacturers
+32,RealEstate,Marketing,2-5,Medium,Medium,Offline,Urban,Real Estate Brokerage,Property,Sales;Negotiation,Medium,Medium,High,Low,Buyers
+33,RealEstate,Technology,5+,High,High,Online,Urban,Property Listing Portal,PropTech,Web Dev;Sales,High,Hard,High,High,Investors
+34,Automobile,Service,0-1,Low,Low,Offline,Semi-Urban,Two Wheeler Repair Shop,Automobile,Repair,Low,Easy,High,Low,Commuters
+35,Automobile,Technology,2-5,Medium,Medium,Hybrid,Urban,EV Charging Station,Energy,Electrical,Medium,Medium,High,Medium,EV Owners
+36,Energy,Sustainability,5+,High,High,Offline,Rural,Solar Panel Installation,Renewable Energy,Electrical;Planning,High,Hard,High,Medium,Farm Owners
+37,PetCare,Service,0-1,Low,Low,Offline,Urban,Pet Grooming Service,Pet Care,Handling,Low,Easy,High,Low,Pet Owners
+38,PetCare,Content,2-5,Low,Low,Online,Urban,Pet Care YouTube Channel,Media,Content Creation,Low,Easy,High,High,Pet Lovers
+39,HomeDecor,Design,0-1,Low,Low,Online,Urban,Handmade Home Decor Store,Home Decor,Crafts;Design,Low,Easy,Medium,Medium,Home Owners
+40,HomeDecor,Interior,5+,Medium,Medium,Offline,Urban,Interior Design Consultancy,Design,Interior Design,Medium,Medium,High,Low,Builders
+41,Events,Management,2-5,Medium,Medium,Offline,Urban,Event Planning Company,Events,Management,Medium,Medium,High,Low,Corporates
+42,Events,Technology,5+,High,High,Hybrid,Urban,Virtual Event Platform,Events,Web Dev,High,Hard,High,High,Companies
+43,Education,Language,0-1,Low,Low,Online,Urban,Spoken English Coaching,Education,Teaching,Low,Easy,High,Medium,Students
+44,Education,TestPrep,2-5,Medium,Medium,Hybrid,Urban,Entrance Exam Coaching,Education,Teaching;Planning,Medium,Medium,High,Medium,Aspirants
+45,Education,Technology,5+,High,High,Online,Urban,Learning Management System,EdTech,Software Dev,High,Hard,High,High,Institutes
+46,Education,Career,2-5,Medium,Medium,Online,Urban,Career Guidance Platform,Education,Counselling;Analysis,Medium,Medium,High,Medium,Graduates
+47,Education,Content,5+,Medium,Low,Offline,Semi-Urban,Book Publishing House,Education,Writing;Editing,Medium,Medium,Medium,Low,Authors
+48,Technology,Cloud,2-5,Medium,Medium,Online,Urban,Cloud Consulting Service,IT Services,Cloud;DevOps,Medium,Hard,High,High,Enterprises
+49,Technology,Automation,5+,High,High,Hybrid,Urban,RPA Automation Firm,Software,Automation;Python,High,Hard,High,High,Corporates
+50,Technology,Content,0-1,Low,Low,Online,Urban,Tech Blogging Website,Media,Writing;SEO,Low,Easy,Medium,Medium,Developers
+51,Food,Bakery,0-1,Low,Low,Offline,Semi-Urban,Home Bakery,Food Service,Baking;Sales,Low,Easy,High,Low,Local Customers
+52,Food,Franchise,5+,High,Medium,Offline,Urban,Fast Food Franchise,Food Service,Management,High,Hard,High,Medium,Urban Consumers
+53,Food,SupplyChain,2-5,Medium,Medium,Hybrid,Urban,Frozen Food Distribution,Food Logistics,Logistics;Planning,Medium,Medium,Medium,Medium,Restaurants
+54,Fashion,Design,0-1,Low,Low,Online,Urban,Jewellery Dropshipping Store,Fashion,Design;Marketing,Low,Easy,Medium,High,Young Adults
+55,Fashion,Manufacturing,5+,High,High,Offline,Semi-Urban,Garment Manufacturing Unit,Fashion,Production;Management,High,Hard,High,Medium,Wholesalers
+56,Fashion,Content,2-5,Low,Low,Online,Urban,Fashion Styling YouTube Channel,Media,Styling;Content,Low,Easy,High,High,Fashion Enthusiasts
+57,Agriculture,Processing,5+,Medium,Medium,Offline,Rural,Food Processing Unit,Agriculture,Processing;Quality Control,Medium,Hard,High,Medium,Farmers
+58,Agriculture,Export,5+,High,High,Hybrid,Rural,Agricultural Export Business,Agriculture,Trade;Logistics,High,Hard,High,High,International Buyers
+59,Agriculture,Education,2-5,Low,Low,Offline,Rural,Agriculture Training Center,Education,Training;Farming,Low,Medium,Medium,Low,Farmers
+60,Health,Wellness,0-1,Low,Low,Online,Urban,Yoga Coaching Platform,Health,Fitness;Teaching,Low,Easy,High,High,Office Workers
+61,Health,MentalHealth,2-5,Medium,Medium,Online,Urban,Online Therapy Service,Health,Counselling;Psychology,Medium,Medium,High,Medium,Adults
+62,Health,Medical,5+,High,High,Offline,Urban,Diagnostic Lab,Healthcare,Medical Testing,High,Hard,High,Medium,Patients
+63,Travel,Hospitality,0-1,Low,Low,Offline,Rural,Homestay Business,Hospitality,Customer Service,Low,Easy,Medium,Low,Tourists
+64,Travel,Transport,2-5,Medium,Medium,Offline,Urban,Car Rental Service,Transport,Operations;Management,Medium,Medium,High,Medium,Travellers
+65,Travel,Technology,5+,High,High,Online,Urban,Travel Booking App,Travel Tech,App Development,High,Hard,High,High,Global Users
+66,Finance,Tax,2-5,Medium,Medium,Offline,Urban,Tax Consultancy Firm,Finance,Accounting;Taxation,Medium,Medium,High,Low,Individuals
+67,Finance,Analytics,5+,High,High,Online,Urban,Financial Analytics Platform,FinTech,Data Analysis,High,Hard,High,High,Corporates
+68,Finance,Content,0-1,Low,Low,Online,Urban,Stock Market Education Channel,Education,Finance;Teaching,Low,Easy,High,High,Beginners
+69,Media,Journalism,2-5,Medium,Medium,Online,Urban,Independent News Portal,Media,Writing;Research,Medium,Medium,Medium,Medium,Readers
+70,Media,Podcast,0-1,Low,Low,Online,Urban,Entrepreneurship Podcast,Media,Speaking;Editing,Low,Easy,High,High,Founders
+71,Media,Advertising,5+,High,High,Hybrid,Urban,Advertising Agency,Marketing,Strategy;Creativity,High,Hard,High,Medium,Brands
+72,Logistics,SupplyChain,5+,High,Medium,Offline,Urban,Cold Storage Facility,Logistics,Operations,High,Hard,Medium,Low,Food Suppliers
+73,Logistics,Technology,0-1,Low,Low,Online,Urban,Logistics Tracking Software,Software,Programming,Low,Easy,Medium,High,Logistics Firms
+74,RealEstate,Construction,5+,High,High,Offline,Urban,Real Estate Development,Property,Construction;Finance,High,Hard,High,Low,Investors
+75,RealEstate,Management,2-5,Medium,Medium,Offline,Urban,Property Management Service,Property,Operations,Medium,Medium,Medium,Low,Landlords
+76,Energy,Consulting,2-5,Medium,Medium,Online,Urban,Energy Efficiency Consulting,Energy,Analysis;Planning,Medium,Medium,High,Medium,Industries
+77,Energy,Manufacturing,5+,High,High,Offline,Urban,Battery Manufacturing Unit,Energy,Manufacturing,High,Hard,High,Medium,EV Companies
+78,PetCare,Medical,5+,High,High,Offline,Urban,Veterinary Clinic,Pet Care,Medical Care,High,Hard,High,Low,Pet Owners
+79,PetCare,Products,2-5,Medium,Medium,Online,Urban,Pet Accessories Store,Ecommerce,Sales;Branding,Medium,Medium,Medium,High,Pet Owners
+80,HomeServices,Repair,0-1,Low,Low,Offline,Urban,Home Appliance Repair,Services,Repair Skills,Low,Easy,High,Low,Households
+81,HomeServices,Cleaning,0-1,Low,Low,Offline,Urban,Home Cleaning Service,Services,Operations,Low,Easy,High,Low,Working Families
+82,HomeServices,Technology,2-5,Medium,Medium,Online,Urban,Home Services Booking App,Service Tech,App Dev,Medium,Hard,High,High,Urban Residents
+83,Events,Weddings,2-5,Medium,Medium,Offline,Urban,Wedding Planning Business,Events,Coordination,Medium,Medium,High,Low,Couples
+84,Events,Corporate,5+,High,High,Hybrid,Urban,Corporate Event Management,Events,Management,High,Hard,High,Medium,Companies
+85,Education,Preschool,0-1,Medium,Low,Offline,Urban,Play School,Education,Child Care,Medium,Medium,High,Low,Parents
+86,Education,Language,2-5,Low,Low,Online,Urban,Foreign Language Coaching,Education,Teaching,Low,Easy,High,Medium,Students
+87,Education,Research,5+,High,Medium,Offline,Urban,Research Consultancy,Education,Analysis;Writing,High,Hard,Medium,Low,Institutions
+88,Technology,Blockchain,5+,High,High,Online,Urban,Blockchain Consulting Firm,FinTech,Blockchain;Security,High,Hard,High,High,Enterprises
+89,Technology,GameDev,2-5,Medium,Medium,Online,Urban,Indie Game Studio,Entertainment,Game Design,Medium,Hard,Medium,High,Gamers
+90,Technology,Support,0-1,Low,Low,Online,Urban,Remote Tech Support Service,IT Services,Troubleshooting,Low,Easy,High,Medium,SMEs
+91,Food,Catering,2-5,Medium,Medium,Offline,Urban,Corporate Catering Service,Food Service,Operations,Medium,Medium,High,Low,Companies
+92,Food,Manufacturing,5+,High,High,Offline,Semi-Urban,Packaged Snacks Manufacturing,Food Manufacturing,Production,High,Hard,High,Medium,Distributors
+93,Health,ElderCare,2-5,Medium,Medium,Offline,Urban,Elder Care Services,Healthcare,Care Management,Medium,Medium,High,Low,Senior Citizens
+94,Health,Technology,0-1,Low,Low,Online,Urban,Health Awareness Blog,Media,Writing,Low,Easy,Medium,Medium,General Public
+95,Travel,Adventure,2-5,Medium,Medium,Offline,Rural,Adventure Tourism Company,Travel,Planning;Safety,Medium,Hard,Medium,Low,Adventure Seekers
+96,Travel,Education,0-1,Low,Low,Online,Urban,Travel Training Courses,Education,Teaching,Low,Easy,Medium,Medium,Travel Aspirants
+97,Finance,Insurance,2-5,Medium,Medium,Offline,Urban,Insurance Advisory Firm,Finance,Sales;Risk Analysis,Medium,Medium,High,Low,Individuals
+98,Finance,Payments,5+,High,High,Online,Urban,Digital Payment Gateway,FinTech,Security;Backend,High,Hard,High,High,Ecommerce Firms
+99,Media,Influencer,0-1,Low,Low,Online,Urban,Niche Influencer Marketing,Marketing,Content Creation,Low,Easy,High,High,Brands
+100,General,Consulting,5+,Medium,Low,Hybrid,Urban,Startup Mentorship Program,Consulting,Strategy;Coaching,Medium,Medium,Medium,Medium,Early Founders
